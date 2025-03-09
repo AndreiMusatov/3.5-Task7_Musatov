@@ -58,3 +58,4 @@ public class initialization_array {
         scanner.close();
     }
 }
+
